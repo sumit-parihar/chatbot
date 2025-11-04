@@ -1,0 +1,84 @@
+{
+  "greetings": {
+    "keywords": ["hello", "hi", "hey"],
+    "responses": [
+      "Hello! How can I assist you today?",
+      "Hi there! What information do you need about the CS Department?"
+    ]
+  },
+  "department_info": {
+  "keywords": [
+    "about department", "about dept", "about cs", "about computer science",
+    "department info", "department information", "cs department", "computer science department"
+  ],
+  "responses": [
+    "The Computer Science Department focuses on AI, Data Science, and Software Engineering. It offers B.Tech and M.Tech programs accredited by AICTE."
+  ]
+},
+  "faculty_info": {
+    "keywords": ["faculty", "professor", "teacher", "hod"],
+    "responses": [
+      "Our Head of Department is Dr. R. Sharma. Faculty details can be found at: csdept.university.edu/faculty"
+    ]
+  },
+  "lab_timing": {
+    "keywords": ["lab timing", "lab schedule", "lab hours"],
+    "responses": [
+      "Labs operate from 9:00 AM to 5:00 PM, Monday through Friday. Each lab is equipped with high-end systems for project work."
+    ]
+  },
+  "exam_schedule": {
+    "keywords": ["exam", "midterm", "final exam", "test"],
+    "responses": [
+      "Exam timetables are released one week before exams on the departmental notice board and website."
+    ]
+  },
+  "courses_offered": {
+    "keywords": ["course", "subject", "curriculum"],
+    "responses": [
+      "Core courses include Data Structures, Operating Systems, DBMS, and Machine Learning. Electives include Cloud Computing and Cyber Security."
+    ]
+  },
+  "contact": {
+    "keywords": ["contact", "email", "phone"],
+    "responses": [
+      "You can reach us at csdept@university.edu or call +91-9876543210."
+    ]
+  },
+  "admission": {
+    "keywords": ["admission", "apply", "join"],
+    "responses": [
+      "Admissions are conducted through the state entrance exam. Visit university.edu/admissions for details."
+    ]
+  },
+  "achievements": {
+    "keywords": ["achievement", "award", "ranking"],
+    "responses": [
+      "The CS Department ranked top 3 in the region and students frequently qualify for GATE and research fellowships."
+    ]
+  },
+  "goodbye": {
+    "keywords": ["bye", "exit", "quit"],
+    "responses": [
+      "Goodbye! Have a great day.",
+      "See you soon! Take care."
+    ]
+  },
+  "default": {
+    "keywords": [],
+    "responses": [
+        "I'm sorry, I didn't quite get that. Could you please rephrase?",
+        "Hmm, I'm not sure about that. Try asking something related to the department.",
+        "I didn't understand. Maybe ask about HOD, Labs, or Contact info?"
+    ]
+},
+"vision": {
+  "keywords": ["vision"],
+  "responses": ["Our vision is to produce technically skilled and ethically strong computer engineers."]
+},
+"mission": {
+  "keywords": ["mission"],
+  "responses": ["Our mission is to provide quality education and promote innovative research."]
+}
+
+}
