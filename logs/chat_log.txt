@@ -1,0 +1,107 @@
+[2025-10-29 14:57:37] bot: 👋 Hello! I’m your CSE Department Assistant.
+How can I help you today?
+
+You can choose from these topics:
+[2025-10-29 14:57:47] user: HOD
+[2025-10-29 14:57:47] bot: Our Head of Department is Dr. R. Sharma. Faculty details can be found at: csdept.university.edu/faculty
+[2025-10-29 15:05:26] bot: 👋 Hi there! If you need any assistance, I’m always here.
+
+You can ask about:
+• HOD
+• Labs
+• Contact Info
+• About Dept
+[2025-10-29 15:05:33] user: About Dept
+[2025-10-29 15:05:34] bot: Hmm, I'm not sure about that. Try asking something related to the department.
+[2025-10-29 15:05:36] user: Labs
+[2025-10-29 15:05:37] bot: I'm sorry, I didn't quite get that. Could you please rephrase?
+[2025-10-29 15:05:40] user: Contact
+[2025-10-29 15:05:41] bot: You can reach us at csdept@university.edu or call +91-9876543210.
+[2025-10-29 15:05:48] user: hod
+[2025-10-29 15:05:49] bot: Our Head of Department is Dr. R. Sharma. Faculty details can be found at: csdept.university.edu/faculty
+[2025-10-29 15:06:57] user: wfdw
+[2025-10-29 15:06:58] bot: I'm sorry, I didn't quite get that. Could you please rephrase?
+[2025-10-29 15:07:04] user: Labs
+[2025-10-29 15:07:05] bot: I'm sorry, I didn't quite get that. Could you please rephrase?
+[2025-10-29 15:07:07] user: dwqd
+[2025-10-29 15:07:08] bot: Hmm, I'm not sure about that. Try asking something related to the department.
+[2025-10-29 15:07:12] user: About Dept
+[2025-10-29 15:07:12] bot: I didn't understand. Maybe ask about HOD, Labs, or Contact info?
+[2025-10-29 15:07:57] user: hod
+[2025-10-29 15:07:58] bot: Our Head of Department is Dr. R. Sharma. Faculty details can be found at: csdept.university.edu/faculty
+[2025-10-29 15:21:13] bot: 👋 Hi there! If you need any assistance, I’m always here to help!
+[2025-10-29 15:21:18] user: About Dept
+[2025-10-29 15:21:19] bot: The Computer Science Department focuses on AI, Data Science, and Software Engineering. It offers B.Tech and M.Tech programs accredited by AICTE.
+[2025-10-29 15:22:47] bot: 👋 Hi there! If you need any assistance, I am always here.
+
+[2025-10-29 15:22:53] user: Labs
+[2025-10-29 15:22:53] bot: I'm sorry, I didn't quite get that. Could you please rephrase?
+[2025-10-29 15:22:55] user: About Department
+[2025-10-29 15:22:56] bot: The Computer Science Department focuses on AI, Data Science, and Software Engineering. It offers B.Tech and M.Tech programs accredited by AICTE.
+[2025-10-29 15:23:00] user: adw
+[2025-10-29 15:23:00] bot: Hmm, I'm not sure about that. Try asking something related to the department.
+[2025-10-29 15:23:03] user: Contact
+[2025-10-29 15:23:03] bot: You can reach us at csdept@university.edu or call +91-9876543210.
+[2025-10-29 15:23:11] user: fees
+[2025-10-29 15:23:12] bot: I'm sorry, I didn't quite get that. Could you please rephrase?
+[2025-10-29 15:26:23] user: Labs
+[2025-10-29 15:26:24] bot: Hmm, I'm not sure about that. Try asking something related to the department.
+[2025-10-29 15:26:27] user: bkj
+[2025-10-29 15:26:28] bot: Hmm, I'm not sure about that. Try asking something related to the department.
+[2025-10-29 15:32:12] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:32:18] user: Courses
+[2025-10-29 15:32:19] bot: Core courses include Data Structures, Operating Systems, DBMS, and Machine Learning. Electives include Cloud Computing and Cyber Security.
+[2025-10-29 15:33:57] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:34:09] user: dept
+[2025-10-29 15:34:10] bot: I'm sorry, I didn't quite get that. Could you please rephrase?
+[2025-10-29 15:34:13] user: hod
+[2025-10-29 15:34:14] bot: Our Head of Department is Dr. R. Sharma. Faculty details can be found at: csdept.university.edu/faculty
+[2025-10-29 15:35:19] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:36:19] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:36:21] user: Contact
+[2025-10-29 15:36:22] bot: You can reach us at csdept@university.edu or call +91-9876543210.
+[2025-10-29 15:38:10] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:43:30] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:44:31] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:44:41] user: DSA
+[2025-10-29 15:44:41] bot: I didn't understand. Maybe ask about HOD, Labs, or Contact info?
+[2025-10-29 15:44:53] user: Vision
+[2025-10-29 15:44:53] bot: Our vision is to produce technically skilled and ethically strong computer engineers.
+[2025-10-29 15:46:45] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:48:25] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:48:29] user: Contact
+[2025-10-29 15:48:29] bot: You can reach us at csdept@university.edu or call +91-9876543210.
+[2025-10-29 15:48:42] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:48:47] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:48:54] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:49:00] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:49:01] user: Exam Schedule
+[2025-10-29 15:49:02] bot: Exam timetables are released one week before exams on the departmental notice board and website.
+[2025-10-29 15:53:17] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 15:53:21] user: Vision
+[2025-10-29 15:53:22] bot: Our vision is to produce technically skilled and ethically strong computer engineers.
+[2025-10-29 15:55:31] user: hod
+[2025-10-29 15:55:31] bot: Our Head of Department is Dr. R. Sharma. Faculty details can be found at: csdept.university.edu/faculty
+[2025-10-29 15:55:34] user: bjbj
+[2025-10-29 15:55:34] bot: I didn't understand. Maybe ask about HOD, Labs, or Contact info?
+[2025-10-29 20:47:23] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-10-29 20:47:27] user: Admission
+[2025-10-29 20:47:28] bot: Admissions are conducted through the state entrance exam. Visit university.edu/admissions for details.
+[2025-11-04 15:37:24] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-11-04 15:37:34] user: Vision
+[2025-11-04 15:37:35] bot: Our vision is to produce technically skilled and ethically strong computer engineers.
+[2025-11-04 15:37:38] user: hod\
+[2025-11-04 15:37:39] bot: Our Head of Department is Dr. R. Sharma. Faculty details can be found at: csdept.university.edu/faculty
+[2025-11-04 15:40:58] user: barsha
+[2025-11-04 15:40:59] bot: I didn't understand. Maybe ask about HOD, Labs, or Contact info?
+[2025-11-04 15:41:07] user: hi
+[2025-11-04 15:41:07] bot: Hi there! What information do you need about the CS Department?
+[2025-11-04 15:41:15] user: python
+[2025-11-04 15:41:16] bot: Hmm, I'm not sure about that. Try asking something related to the department.
+[2025-11-04 15:41:32] user: Machine Learning
+[2025-11-04 15:41:33] bot: Hello! How can I assist you today?
+[2025-11-05 04:16:35] bot: 👋 Hi there! I’m your CSE Assistant. Choose a topic below or type a question.
+[2025-11-05 04:16:38] user: Hardware Lab
+[2025-11-05 04:16:39] bot: I didn't understand. Maybe ask about HOD, Labs, or Contact info?
+[2025-11-05 04:16:54] user: Exam Schedule
+[2025-11-05 04:16:54] bot: Exam timetables are released one week before exams on the departmental notice board and website.
